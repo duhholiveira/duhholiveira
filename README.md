@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, i'm Marcos Oliveira 👋
 
-<!--
-**duhholiveira/duhholiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About
+I'm a Frontend Developer and Civil Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Current Stack
+- Main language: `JavaScript`
+- Frontend: `ReactJS`, `HTML5`, `CSS3`, `JavaScript`, `TailwindCSS`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devmarcosoliveira.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-oliveira-690491144/)
+
